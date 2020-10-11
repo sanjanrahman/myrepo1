@@ -3,7 +3,7 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: myGitHub               # Change to your integration
-      path: sanjanrahman/myrepo                 # Change to your repo
+      path: sanjanrahman/myrepo1              # Change to your repo
 pipelines:
   - name: pipeline_hello_world
     configuration:
